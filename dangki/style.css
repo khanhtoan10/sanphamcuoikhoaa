@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    background-color: #6B9AEC;
+}
+
+.wrapper{
+    background-color: white;
+    padding: 50px 30px;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 3px 5px rgba(69, 62, 62, 0.167);
+}
+
+.login-from{
+   text-align: center;
+}
+
+.input-text{
+     width: 95%;
+     outline: none;
+     border: 2x solid rgba(0,0,0,0.225);
+     border-top: none;
+     border-right: none;
+     border-left: none;
+     margin-top: 30px;
+}
+
+#loginButton{
+    margin-top: 50px;
+    padding: 6px 110px;
+    color: white;
+    background-color: #8cade5;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+}
